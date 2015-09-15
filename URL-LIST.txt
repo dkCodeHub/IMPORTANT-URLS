@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/14099520/async-await-and-parallel-in-c-sharp : Async, Await and Parallel
+http://www.codeproject.com/Articles/518856/Task-Parallel-Library-and-async-await-Functionalit : Task Parallel Library
