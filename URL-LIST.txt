@@ -1,2 +1,9 @@
 http://stackoverflow.com/questions/14099520/async-await-and-parallel-in-c-sharp : Async, Await and Parallel
 http://www.codeproject.com/Articles/518856/Task-Parallel-Library-and-async-await-Functionalit : Task Parallel Library
+
+
+============================================EXPONENTIAL BACKOFF ALGORITHMS========================================
+http://blog.chrisbriggsy.com/Introducing-Polly-for-Win10-IoT/
+http://stackoverflow.com/questions/1563191/c-sharp-cleanest-way-to-write-retry-logic
+https://github.com/michael-wolfenden/Polly
+https://codingmoments.wordpress.com/tag/polly/
